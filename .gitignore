@@ -1,0 +1,9 @@
+# DataBase
+db.sqlite3
+
+# Virtual Env
+venv
+
+# Media
+media
+*.jpeg
